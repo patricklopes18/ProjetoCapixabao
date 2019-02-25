@@ -1,2 +1,0 @@
-# projetocapixabao
-unidade curricular senac
